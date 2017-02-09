@@ -1,6 +1,6 @@
 pub mod greeting {
     pub fn print_greet() {
-        println!("$greeting$");
+        println!("{{greeting}}");
     }
 }
 

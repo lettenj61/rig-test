@@ -1,6 +1,6 @@
 [package]
-name = "$name;norm$"
-version = "$version$"
-authors = ["$author$"]
+name = "{{ name }}"
+version = "{{ version }}"
+authors = ["{{ author }}"]
 
 [dependencies]
