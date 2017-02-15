@@ -1,4 +1,5 @@
 name = "Sample Cargo Lib Project"
 version = "0.1.0"
 author = "Your name"
+greeter = "Pretty Kitten"
 greeting = "Hello, World!"
